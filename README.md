@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://hackerlaws.dev" target="_blank">hacker-laws</a></h1>
 <h4 align="center">🧠 Laws, Theories, Principles and Patterns for developers and technologists.</h4>
-<p align="center"><a href="https://github.com/sponsors/dwmkerr?frequency=one-time"><img src="https://img.shields.io/badge/thanks-buy%20me%20a%20coffee-ea4aaa?logo=githubsponsors&logoColor=white" alt="Buy me a coffee"></a></p>
+<p align="center"><a href="https://github.com/sponsors/dwmkerr/sponsorships?frequency=one-time&amount=5"><img src="https://img.shields.io/badge/thanks-donate-ea4aaa?logo=githubsponsors&logoColor=white" alt="Donate"></a></p>
 
 ---
 
